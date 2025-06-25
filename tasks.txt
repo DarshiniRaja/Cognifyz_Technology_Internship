@@ -1,0 +1,5 @@
+01|Reading|Book "Ikigai"|Pending
+02|Reading|Book "How to influence people"|Pending
+03|Freelancing|Logo creation|Pending
+04|Learning|Programming Language - Python|completed
+
