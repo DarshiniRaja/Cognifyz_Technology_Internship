@@ -1,3 +1,5 @@
+# Task 02 : Number patterns
+
 def pyramid_pattern(n):
     print("\n Pyramid Pattern:\n")
     for i in range(1, n + 1):
